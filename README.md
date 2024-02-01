@@ -19,7 +19,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Modern inline-grid approach
+- Display inline-grid
 - Mobile-first workflow
 
 ## Author
