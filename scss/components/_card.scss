@@ -14,6 +14,7 @@
 }
 
 .card {
+	width: 100%;
 	max-width: func.em(420, var.$font-size-primary);
 	background-color: var.$color-dark-desaturated-blue;
 	margin: func.em(30, var.$font-size-primary) 0
